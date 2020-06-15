@@ -1,0 +1,22 @@
+{
+  "name": "joke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator/issues"
+  },
+  "homepage": "https://rohanrajgautam.github.io/ChuckNorrisJokeGenerator",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
